@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Anand Bunglows",
+    "price": "47,043",
+    "detail": "CBD Mall, Zundal Road, Ahmedabad",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Garden City",
+    "price": "66,353",
+    "detail": "Gota, Ahmedabad, Gujarat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Apple Woods",
+    "price": "35,853",
+    "detail": "Near Bopal, SP Ring Road",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Anand Bunglows",
+    "price": "47,043",
+    "detail": "CBD Mall, Zundal Road, Ahmedabad",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Garden City",
+    "price": "66,353",
+    "detail": "Gota, Ahmedabad, Gujarat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Apple Woods",
+    "price": "35,853",
+    "detail": "Near Bopal, SP Ring Road",
+    "image": "./r3.png"
+  }
+]
